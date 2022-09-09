@@ -5,26 +5,33 @@ contributors: [<!---REPLACE THIS with comma separated list of contributors--->]
 page_id: [<!---REPLACE THIS with a shortened page name, with small letters and spaces, or an acronym in capital and small letters--->]
 ---
 
-## Domain Title
+## Biological macromolecular crystallography
 <!--Example: High-Throughput Screening-->
 
 ### Description
 
+Biological macromolecular crystallography is used to investigate three-dimensional structures of macromolar molecules sucha as proteins. The experiments usually involve 3 components: The crytals of the molecules of intrest, a source of x-rays and a detector.
 
-### Type of data/experiments/methods
-#### Type 1
-- Data name and format e.g. [mzML](https://fairsharing.org/FAIRsharing.26dmba)
-- Open Format
 
-#### Type 2
-- Data name and format e.g. [mzML](https://fairsharing.org/FAIRsharing.26dmba)
-- Open Format
+### Type of data
+
+#### X-Ray detector specific raw data formats
+- There are various proprietary data formats of the various detector vendors
+- These are mostly not open file formats
+
+#### TIFF for x-ray diffraction patterns
+- [Tag Image File Format](https://en.wikipedia.org/wiki/TIFF) or TIFF is used as a universal exchange format for diffraction patterns
+- Usually no metadata prior to aquistion
+- This is an open format
+
+#### macromolecular Crystallographic Information File
+- [PDBx/mmCIF](https://doi.org/10.25504/FAIRsharing.fd28en) is a dictionary of data archiving macromolecule crystallographic experiments and their results. 
+- Usually no metadata prior to aquistion
+- This is an open format
 
 ### Metadata Standards
-#### Standard 1
-- Ontologies
-- Controlled vocabularies
-- FAIRsharing entry link
+#### Crystallographic Information Framework
+- https://doi.org/10.25504/FAIRsharing.zr52g5
 
 ### Sources for Reusable Data
 #### Source name 1 

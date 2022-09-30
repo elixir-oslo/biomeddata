@@ -1,7 +1,7 @@
 ---
 title: 
 search_exclude: true
-contributors: [<!---REPLACE THIS with comma separated list of contributors--->]
+contributors: [Korbinian Bösl]
 page_id: [<!---REPLACE THIS with a shortened page name, with small letters and spaces, or an acronym in capital and small letters--->]
 ---
 
@@ -45,11 +45,11 @@ Biological macromolecular crystallography is used to investigate three-dimension
 
 ### Data Deposition Repository
 
-#### Repository Name 1
+#### PDBe
 - Standard License
-- Identifiers
-- How to submit data
-- Embargo
+- identifiers.org
+- [Submission guidelines](https://www.ebi.ac.uk/pdbe/deposition-services)
+- Embargo up to publication possible
 
 #### Repository Name 2
 - Standard License
